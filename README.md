@@ -4,7 +4,7 @@ Para ello en la parte derecha nos sale el icono de gradle y tenemos que presiona
 
 Una vez termina de ejecutarse podemos ver el archivo .jar en la carperta build/libs, que en esta misma carpeta vamos a mover el archivo application.properties. 
 
-![Logo](images/logo.png)
+![Logo](imagenes/apifinal1.png)
 
 Ahora vamos a nuestra máquina vamos a crear el archivo de configuración del servicio y lo vamos a configurar. 
 
