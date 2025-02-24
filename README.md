@@ -10,12 +10,12 @@ Ahora vamos a nuestra máquina vamos a crear el archivo de configuración del se
 
 sudo nano /etc/systemd/system/spring-server.service 
 
-![Logo](images/logo.png)
+![Logo](imagenes/apifinal2.png)
 
 Ahora ya podemos acceder al servicio desde los comandos. 
 
-![Logo](images/logo.png)
+![Logo](imagenes/apifinal3.png)
 
 Por último, yo tuve que poner un par de líneas extra en el application.properties para poder hacer las llamadas al api. 
 
-![Logo](images/logo.png)
+![Logo](imagenes/apifinal4.png)
